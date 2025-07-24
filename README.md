@@ -1,0 +1,1 @@
+Para correrlo en local === npm install, npm run start
